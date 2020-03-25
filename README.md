@@ -11,4 +11,4 @@ Because students gotta learn.
 
 ## How?
 
-Zoom
+[Workshop slides](http://plat.is/git)
