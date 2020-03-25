@@ -1,10 +1,10 @@
 # DIT112-V20 `git` workshop
 
-## What
+## What?
 
 This is the repository for the version control workshop for
 DIT112 in Gothenburg University.
 
-## Why
+## Why?
 
 Because students gotta learn.
