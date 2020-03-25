@@ -11,4 +11,5 @@ Because students gotta learn.
 
 ## How?
 
-[Workshop slides](http://plat.is/git)
+We used the [workshop slides](http://plat.is/git) and live
+hacking to show the students the `git` basics.
