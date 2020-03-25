@@ -7,4 +7,4 @@ DIT112 in Gothenburg University.
 
 ## Why
 
-Because students gotta learn!
+Because students gotta learn.
