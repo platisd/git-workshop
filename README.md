@@ -17,3 +17,8 @@ hacking to show the students the `git` fundamentals.
 ## LICENSE
 
 MIT (see [LICENSE file](LICENSE))
+
+## Credits
+
+Dimitris
+DIT112-V20 class
