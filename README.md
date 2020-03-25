@@ -16,4 +16,4 @@ hacking to show the students the `git` basics.
 
 ## LICENSE
 
-MIT
+MIT (see [LICENSE file](LICENSE))
