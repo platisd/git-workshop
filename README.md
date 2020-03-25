@@ -8,3 +8,7 @@ DIT112 in Gothenburg University.
 ## Why?
 
 Because students gotta learn.
+
+## How?
+
+Zoom
