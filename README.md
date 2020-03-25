@@ -1,4 +1,4 @@
-# DIT112-V20 `git` workshop
+# DIT112-V20 version control workshop
 
 ## What?
 
