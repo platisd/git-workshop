@@ -22,3 +22,7 @@ MIT (see [LICENSE file](LICENSE))
 
 Dimitris
 DIT042-H20 class
+
+## Misfortunes
+
+Francisco was late with his class and has an "optional" lecture right after.
