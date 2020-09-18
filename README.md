@@ -1,9 +1,9 @@
-# DIT112-V20 version control workshop
+# DIT042-H20 version control workshop
 
 ## What?
 
 This is the repository for the version control workshop for
-DIT112 in Gothenburg University.
+DIT042 in Gothenburg University.
 
 ## Why?
 
@@ -21,4 +21,4 @@ MIT (see [LICENSE file](LICENSE))
 ## Credits
 
 Dimitris
-DIT112-V20 class
+DIT042-H20 class
