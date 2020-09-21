@@ -32,7 +32,8 @@ The awesome DIT042-H20 class
 * Maria
 * Pontus
 * Jacob
-
+* Niklas
+* Johan
 
 ## Takeaways
 
