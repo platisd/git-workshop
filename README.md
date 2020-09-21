@@ -30,6 +30,9 @@ The awesome DIT112-H20 class
 * Alice
 * Nick
 * Maria
+* Pontus
+* Jacob
+
 
 ## Takeaways
 
