@@ -21,4 +21,4 @@ MIT (see [LICENSE file](LICENSE))
 ## Credits
 
 Dimitris Platis
-DIT042-H20 class
+The awesome DIT042-H20 class
