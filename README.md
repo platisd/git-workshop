@@ -1,4 +1,4 @@
-# DIT042-H20 version control workshop
+# DIT042-H20 version contrl workshop
 
 ## What?
 
