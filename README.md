@@ -23,3 +23,10 @@ MIT (see [LICENSE file](LICENSE))
 Dimitris Platis
 
 The awesome DIT042-H20 class
+
+## Takeaways
+
+* How to pull
+* How to merge
+* How to commit
+* How to reset
