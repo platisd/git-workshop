@@ -30,3 +30,10 @@ The awesome DIT042-H20 class
 * Alice
 * Nick
 * Maria
+
+## Takeaways
+
+* How to pull
+* How to merge
+* How to commit
+* How to reset
