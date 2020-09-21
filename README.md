@@ -23,3 +23,10 @@ MIT (see [LICENSE file](LICENSE))
 Dimitris Platis
 
 The awesome DIT042-H20 class
+
+## Participants
+
+* Bob
+* Alice
+* Nick
+* Maria
