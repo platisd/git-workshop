@@ -2,7 +2,7 @@
 
 ## What?
 
-This is the repository for the version control workshop for
+This is the repository for the `git` workshop for
 DIT042 in Gothenburg University.
 
 ## Why?
