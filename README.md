@@ -30,6 +30,9 @@ The awesome DIT042-H20 class
 * Alice
 * Nick
 * Maria
+* Pontus
+* Jacob
+
 
 ## Takeaways
 
