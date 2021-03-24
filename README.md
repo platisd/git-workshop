@@ -1,9 +1,9 @@
-# DIT042-H20 version control workshop
+# DIT112-H20 version control workshop
 
 ## What?
 
 This is the repository for the `git` workshop for
-DIT042 in Gothenburg University.
+DIT112 in Gothenburg University.
 
 ## Why?
 
@@ -22,7 +22,7 @@ MIT (see [LICENSE file](LICENSE))
 
 Dimitris Platis
 
-The awesome DIT042-H20 class
+The awesome DIT112-H20 class
 
 ## Participants
 
