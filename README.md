@@ -1,4 +1,4 @@
-# DIT112-H20 version control workshop
+# DIT112-V21 version control workshop
 
 ## What?
 
@@ -22,7 +22,7 @@ MIT (see [LICENSE file](LICENSE))
 
 Dimitris Platis
 
-The awesome DIT112-H20 class
+The awesome DIT112-V21 class
 
 ## Participants
 
